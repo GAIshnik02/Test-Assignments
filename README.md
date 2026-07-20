@@ -20,5 +20,5 @@
 
 ### Как запустить
 1. Скачать .jar файл [отсюда](https://github.com/GAIshnik02/Test-Assignments/releases/tag/Лига-Цифровой-Экономики)
-2. ```cd папка_где_находится_файл```
-3. ```java -jar YearCalendar.jar```
+2. `cd папка_где_находится_файл`
+3. `java -jar YearCalendar.jar`
