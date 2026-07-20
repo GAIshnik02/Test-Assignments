@@ -26,5 +26,8 @@ bin/
 ### VS Code ###
 .vscode/
 
+.idea
+SobesTestovoe.iml
+
 ### Mac OS ###
 .DS_Store
